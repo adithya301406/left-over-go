@@ -1,0 +1,8 @@
+
+{
+  "name": "LeftOverGo",
+  "description": "A food rescue platform connecting restaurants and events with orphanages and old-age homes to minimize waste and fight hunger.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
